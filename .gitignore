@@ -9,3 +9,5 @@ usercache.json
 usernamecache.json
 /config/jei/worldSettings.cfg
 config/jei/worldSettings.cfg
+.mixin.out/audit/mixin_implementation_report.csv
+.mixin.out/audit/mixin_implementation_report.txt
