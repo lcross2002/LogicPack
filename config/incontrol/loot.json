@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "mob": "totemic:baykok",
+        "item": "beneath:teleporterbeneath"
+    },
+    {
+        "mob": "mm:maelstrom_statue_of_nirvana",
+        "remove": "mm:red_key_fragment"
+    },
+    {
+        "mob": "mm:maelstrom_statue_of_nirvana",
+        "item": "ferdinandsflowers:item_test"
+    }
+]
