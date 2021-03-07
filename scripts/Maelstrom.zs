@@ -6,4 +6,4 @@ import crafttweaker.item.IItemStack;
 recipes.addShapeless(<minecraft:dye:12>, [<mm:blue_daisy>]);
 recipes.addShapeless(<minecraft:dye:1>, [<mm:ruby_orchid>]);
 
-recipes.addShaped(<mm:red_key_fragment>, [[<ferdinandsflowers:item_test>, null, null], [null, null, null], [null, null, null]]);
+recipes.addShaped(<mm:red_key_fragment>, [[<bountifulbaubles:spectralsilt>, null, null], [null, null, null], [null, null, null]]);

@@ -10,5 +10,10 @@
     {
         "mob": "mm:maelstrom_statue_of_nirvana",
         "item": "ferdinandsflowers:item_test"
+    },
+    {
+        "mob": "minecraft:ender_dragon",
+        "item": "bountifulbaubles:trinketblackdragonscale",
+        "itemcount": "4"
     }
 ]
