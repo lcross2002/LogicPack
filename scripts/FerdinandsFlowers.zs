@@ -10,7 +10,6 @@ furnace.setFuel(<ferdinandsflowers:block_plank_light:*>, 0);
 recipes.remove(<ferdinandsflowers:flower_dye:*>);
 recipes.remove(<ferdinandsflowers:flower_dyeb:*>);
 
-recipes.addShapeless(<minecraft:dye:13>, [<ferdinandsflowers:block_cff_flowersc:12>]);
 recipes.addShapeless(<thermalfoundation:dye:13>, [<ferdinandsflowers:block_cff_flowers:0>]);
 recipes.addShapeless(<thermalfoundation:dye:14>, [<ferdinandsflowers:block_cff_flowers:1>]);
 recipes.addShapeless(<thermalfoundation:dye:5>, [<ferdinandsflowers:block_cff_flowers:2>]);
