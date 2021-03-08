@@ -20,6 +20,7 @@ recipes.addShapeless(<bountifulbaubles:amuletsinpride>, [<bountifulbaubles:amule
 recipes.addShaped(<bountifulbaubles:amuletcross>, [[<minecraft:gold_nugget>, <minecraft:gold_nugget>, <minecraft:gold_nugget>], [<minecraft:gold_nugget>, <bountifulbaubles:amuletsinempty>, <minecraft:gold_nugget>], [<minecraft:gold_nugget>, <minecraft:gold_nugget>, <minecraft:gold_nugget>]]);
 recipes.addShaped(<bountifulbaubles:trinketmagiclenses>, [[<minecraft:stick>, null, <minecraft:stick>], [<minecraft:glass>, <minecraft:stick>, <minecraft:glass>], [null, null, null]]);
 recipes.addShapeless(<bountifulbaubles:trinketshulkerheart>, [<minecraft:shulker_shell>, <minecraft:shulker_shell>]);
+recipes.addShaped(<bountifulbaubles:ringoverclocking>, [[<minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget>], [<minecraft:iron_nugget>, <astralsorcery:itemcraftingcomponent:0>, <minecraft:iron_nugget>], [<minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget>]]);
 
 recipes.addShaped(<bountifulbaubles:trinketankhcharm>, [[null, <bountifulbaubles:trinketmagiclenses>, null], [<bountifulbaubles:ringfreeaction>, <bountifulbaubles:trinketmixeddragonscale>, <bountifulbaubles:trinketapple>], [null, <bountifulbaubles:trinketvitamins>, null]]);
 
@@ -29,5 +30,4 @@ recipes.addShapeless(<bountifulbaubles:potionwormhole>, [<bountifulbaubles:potio
 recipes.addShapeless(<bountifulbaubles:potionwormhole>, [<minecraft:potion>.withTag({Potion: "minecraft:water"}), <coralreef:coral:*>, <minecraft:sugar>]);
 
 //recipes.addShaped(<bountifulbaubles:>, [[null, null, null], [null, null, null], [null, null, null]]);
-
-//beozar forbiddenFruit Vitamins ringOfOverclocking minerRing goldenCrown
+//beozar Vitamins minerRing
