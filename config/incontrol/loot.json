@@ -16,6 +16,16 @@
         "item": "ferdinandsflowers:item_test"
     },
     {
+        "mob": "mm:maelstrom_illager",
+        "item": "bountifulbaubles:trinketvitamins",
+        "itemcount": "2"
+    },
+    {
+        "mob": "mm:maelstrom_crawler",
+        "item" : "bountifulbaubles:trinketbezoar",
+        "itemcount" : "2"
+    },
+    {
         "mob": "minecraft:ender_dragon",
         "item": "bountifulbaubles:trinketblackdragonscale",
         "itemcount": "4"
