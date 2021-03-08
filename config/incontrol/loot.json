@@ -4,6 +4,10 @@
         "item": "beneath:teleporterbeneath"
     },
     {
+        "mob": "totemic:baykok",
+        "item": "baubles:ring"
+    },
+    {
         "mob": "mm:maelstrom_statue_of_nirvana",
         "remove": "mm:red_key_fragment"
     },
