@@ -1,2 +1,2 @@
 # LogicPack
- My MC Modpack
+My MC Modpack
